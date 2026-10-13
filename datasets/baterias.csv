@@ -1,0 +1,3 @@
+id,fabricante,modelo,tecnologia,tensao_v,capacidade_ah,energia_kwh,dod,ciclos,preco_brl,fonte,data_atualizacao
+BAT-DEMO-5,Base acadêmica,Bateria demonstrativa 5kWh,LFP,51.2,100,5.12,0.80,6000,7800.00,Dado demonstrativo para teste acadêmico - substituir por datasheet e cotação reais,2026-10-13
+BAT-DEMO-2,Base acadêmica,Bateria demonstrativa 2.5kWh,LFP,25.6,100,2.56,0.80,6000,4400.00,Dado demonstrativo para teste acadêmico - substituir por datasheet e cotação reais,2026-10-13

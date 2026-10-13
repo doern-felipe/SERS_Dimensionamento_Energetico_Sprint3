@@ -1,0 +1,3 @@
+id,fabricante,modelo,potencia_wp,tensao_v,corrente_a,eficiencia,preco_brl,fonte,data_atualizacao
+MOD-DEMO-550,Base acadêmica,Modulo demonstrativo 550,550,41.8,13.16,0.213,650.00,Dado demonstrativo para teste acadêmico - substituir por datasheet e cotação reais,2026-10-13
+MOD-DEMO-450,Base acadêmica,Modulo demonstrativo 450,450,34.5,13.05,0.207,540.00,Dado demonstrativo para teste acadêmico - substituir por datasheet e cotação reais,2026-10-13

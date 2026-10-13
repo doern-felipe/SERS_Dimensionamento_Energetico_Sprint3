@@ -1,0 +1,4 @@
+id,fabricante,modelo,potencia_kw,tensao_max_dc_v,corrente_max_dc_a,mppt_min_v,mppt_max_v,eficiencia,preco_brl,fonte,data_atualizacao
+INV-DEMO-3,Base acadêmica,Inversor demonstrativo 3kW,3.0,600,16,120,500,0.97,4200.00,Dado demonstrativo para teste acadêmico - substituir por datasheet e cotação reais,2026-10-13
+INV-DEMO-5,Base acadêmica,Inversor demonstrativo 5kW,5.0,600,18,120,500,0.975,5900.00,Dado demonstrativo para teste acadêmico - substituir por datasheet e cotação reais,2026-10-13
+INV-DEMO-2,Base acadêmica,Inversor demonstrativo 2kW,2.0,500,12,100,450,0.96,3300.00,Dado demonstrativo para teste acadêmico - substituir por datasheet e cotação reais,2026-10-13
